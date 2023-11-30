@@ -4,11 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Platform
-  - Left
-  - Item
-  - Guide
-  - SoundManager
+  - TutorialRequirement
+  - Move
+  - Delete
+  - Flag
+  - Slow
+  - Up Move
+  - Fast
+  - Higher
   layers:
   - Default
   - TransparentFX
@@ -16,9 +19,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - PlayerDamaged
+  - Platform
   - 
   - 
   - 
