@@ -1,6 +1,10 @@
 # Unity_Science_Quiz_Platformer
 - Simple Quiz Platformer Game about science
 
+# Team
+- Development : Me
+- Idea, planning : https://shadow-whippet-699.notion.site/055aca989dd34ec3bc352ec49b97a9a6?v=124ca05679464ee6b02ea1994ca595c3&pvs=4
+
 # Control
 - Left Arrow or A = Left Move
 
