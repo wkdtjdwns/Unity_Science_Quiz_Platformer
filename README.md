@@ -1,14 +1,14 @@
 # Unity_Science_Quiz_Platformer
-● Simple Quiz Platformer Game about science
+- Simple Quiz Platformer Game about science
 
 # Control
-● Left Arrow or A = Left Move
+- Left Arrow or A = Left Move
 
-● Right Arrow or D = Right Move
+- Right Arrow or D = Right Move
 
-● Space Bar = Jump
+- Space Bar = Jump
 
-● LMB(Left Mouse Button) = Create and Solve Exams
+- LMB(Left Mouse Button) = Create and Solve Exams
 
 # Plats
 ### Basic or Moving or Disappearing Plat
